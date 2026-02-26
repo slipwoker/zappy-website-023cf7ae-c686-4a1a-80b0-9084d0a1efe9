@@ -1,87 +1,75 @@
-# king of spreads — Generative Engine Optimization Map
-
-> A General business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### Home
-https://king-of-spreads-023cf7ae.zappy5.app
+https://example.com
 
 ### About
-https://king-of-spreads-023cf7ae.zappy5.app/about
+https://example.com/about
 
 ### Services
-https://king-of-spreads-023cf7ae.zappy5.app/services
+https://example.com/services
 
 ### Contact
-https://king-of-spreads-023cf7ae.zappy5.app/contact
+https://example.com/contact
 
 ### Products
-https://king-of-spreads-023cf7ae.zappy5.app/products
+https://example.com/products
 Our Products - king of spreads
 
 ### Cart
-https://king-of-spreads-023cf7ae.zappy5.app/cart
+https://example.com/cart
 Your Cart
 
 ### Checkout
-https://king-of-spreads-023cf7ae.zappy5.app/checkout
+https://example.com/checkout
 Checkout
 
 ### Login
-https://king-of-spreads-023cf7ae.zappy5.app/login
+https://example.com/login
 Customer Login
 
 ### Account
-https://king-of-spreads-023cf7ae.zappy5.app/account
+https://example.com/account
 My Account
 
 ### Order Success
-https://king-of-spreads-023cf7ae.zappy5.app/order-success
+https://example.com/order-success
 Thank you for your order
 
 ### Product Detail
-https://king-of-spreads-023cf7ae.zappy5.app/product/:slug
+https://example.com/product/:slug
 Product Details - king of spreads
 
 ### Category
-https://king-of-spreads-023cf7ae.zappy5.app/category/:slug
+https://example.com/category/:slug
 Products - king of spreads
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://king-of-spreads-023cf7ae.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://king-of-spreads-023cf7ae.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://king-of-spreads-023cf7ae.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About king of spreads
-king of spreads is a business in the General industry.
-
-## Target Audience
-- Gourmet Spread Collectors
-- Culinary Experimenters
-- Culinary Influencers
-
-## Industry
-General
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://king-of-spreads-023cf7ae.zappy5.app/sitemap.xml
-- **Robots.txt**: https://king-of-spreads-023cf7ae.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
